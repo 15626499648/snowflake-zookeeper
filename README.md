@@ -1,0 +1,2 @@
+snowflake-zookeeper
+使用zookeeper实现服务集群模式下雪花算法workId的唯一。
